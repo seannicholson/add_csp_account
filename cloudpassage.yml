@@ -1,0 +1,9 @@
+defaults:
+    key_id: ''
+    secret_key: ''
+    api_hostname: "api.cloudpassage.com"
+    api_port: 443
+    externalId:
+    home_group_id: ''
+    role_arn: ''
+    aws_account_csv: 'aws_accounts.csv'
